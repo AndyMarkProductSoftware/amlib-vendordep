@@ -1,0 +1,5 @@
+See file:///P:/ClaysDesktop/vendor-template-2026/vendor-template-2026/build/tmp/linkVendorDriverWindowsx86-64DebugSharedLibrary/output.txt for all output for linkVendorDriverWindowsx86-64DebugSharedLibrary.
+linking VendorDriver.dll successful.
+   Creating library P:\ClaysDesktop\vendor-template-2026\vendor-template-2026\build\libs\vendorDriver\shared\windowsx86-64\debug\VendorDriver.lib and object P:\ClaysDesktop\vendor-template-2026\vendor-template-2026\build\libs\vendorDriver\shared\windowsx86-64\debug\VendorDriver.exp
+
+Finished linkVendorDriverWindowsx86-64DebugSharedLibrary, see full log file:///P:/ClaysDesktop/vendor-template-2026/vendor-template-2026/build/tmp/linkVendorDriverWindowsx86-64DebugSharedLibrary/output.txt.

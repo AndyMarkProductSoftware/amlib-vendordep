@@ -1,0 +1,17 @@
+See file:///P:/ClaysDesktop/vendor-template-2026/vendor-template-2026/build/tmp/compileVendorWindowsx86-64ReleaseSharedLibraryVendorCpp/output.txt for all output for compileVendorWindowsx86-64ReleaseSharedLibraryVendorCpp.
+compiling source.cpp successful.
+source.cpp
+
+compiling AM_CAN_HexBoreEncoder.cpp successful.
+AM_CAN_HexBoreEncoder.cpp
+
+compiling AMCanDevice.cpp successful.
+AMCanDevice.cpp
+
+compiling AM_CAN_Color_Sensor.cpp successful.
+AM_CAN_Color_Sensor.cpp
+
+compiling AMDiagnosticsServer.cpp successful.
+AMDiagnosticsServer.cpp
+
+Finished compileVendorWindowsx86-64ReleaseSharedLibraryVendorCpp, see full log file:///P:/ClaysDesktop/vendor-template-2026/vendor-template-2026/build/tmp/compileVendorWindowsx86-64ReleaseSharedLibraryVendorCpp/output.txt.

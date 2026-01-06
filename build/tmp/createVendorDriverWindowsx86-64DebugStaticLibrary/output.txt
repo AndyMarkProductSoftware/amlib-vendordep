@@ -1,0 +1,4 @@
+See file:///P:/ClaysDesktop/vendor-template-2026/vendor-template-2026/build/tmp/createVendorDriverWindowsx86-64DebugStaticLibrary/output.txt for all output for createVendorDriverWindowsx86-64DebugStaticLibrary.
+archiving VendorDriver.lib successful.
+
+Finished createVendorDriverWindowsx86-64DebugStaticLibrary, see full log file:///P:/ClaysDesktop/vendor-template-2026/vendor-template-2026/build/tmp/createVendorDriverWindowsx86-64DebugStaticLibrary/output.txt.

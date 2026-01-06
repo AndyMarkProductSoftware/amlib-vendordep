@@ -1,0 +1,40 @@
+{
+  "fileName": "AmLib.json",
+  "name": "AndyMark AM Library",
+  "version": "2026.0.1",
+  "frcYear": "2026",
+  "uuid": "REPLACE_WITH_YOUR_UUID",
+  "mavenUrls": [
+    "https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/repo/"
+  ],
+  "jsonUrl": "https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/vendordeps/2026/AmLib-latest.json",
+  "jniDependencies": [],
+  "javaDependencies": [
+    {
+      "groupId": "com.andymark.frc",
+      "artifactId": "AmLib-java",
+      "version": "2026.0.1"
+    }
+  ],
+  "cppDependencies": [
+    {
+      "groupId": "com.andymark.frc",
+      "artifactId": "AmLib-cpp",
+      "version": "2026.0.1",
+      "libName": "AmLib",
+      "headerClassifier": "headers",
+      "sharedLibrary": false,
+      "skipInvalidPlatforms": true,
+      "binaryPlatforms": [
+        "windowsx86-64",
+        "linuxarm64",
+        "linuxx86-64",
+        "linuxathena",
+        "linuxarm32",
+        "osxuniversal"
+      ]
+    }
+  ],
+  "onlineDocumentation": "https://www.andymark.com/",
+  "description": "AndyMark vendor library for CAN devices and tools."
+}

@@ -1,0 +1,4 @@
+See file:///P:/ClaysDesktop/vendor-template-2026/vendor-template-2026/build/tmp/linkVendorLinuxathenaDebugSharedLibrary/output.txt for all output for linkVendorLinuxathenaDebugSharedLibrary.
+linking libVendor.so successful.
+
+Finished linkVendorLinuxathenaDebugSharedLibrary, see full log file:///P:/ClaysDesktop/vendor-template-2026/vendor-template-2026/build/tmp/linkVendorLinuxathenaDebugSharedLibrary/output.txt.

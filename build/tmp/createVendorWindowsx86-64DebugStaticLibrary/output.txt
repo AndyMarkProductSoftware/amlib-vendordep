@@ -1,0 +1,4 @@
+See file:///P:/ClaysDesktop/vendor-template-2026/vendor-template-2026/build/tmp/createVendorWindowsx86-64DebugStaticLibrary/output.txt for all output for createVendorWindowsx86-64DebugStaticLibrary.
+archiving Vendor.lib successful.
+
+Finished createVendorWindowsx86-64DebugStaticLibrary, see full log file:///P:/ClaysDesktop/vendor-template-2026/vendor-template-2026/build/tmp/createVendorWindowsx86-64DebugStaticLibrary/output.txt.

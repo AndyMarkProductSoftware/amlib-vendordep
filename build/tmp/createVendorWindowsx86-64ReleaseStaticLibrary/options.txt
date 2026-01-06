@@ -1,0 +1,7 @@
+/OUT:P:\ClaysDesktop\vendor-template-2026\vendor-template-2026\build\libs\vendor\static\windowsx86-64\release\Vendor.lib
+/NOLOGO
+P:\ClaysDesktop\vendor-template-2026\vendor-template-2026\build\objs\vendor\static\windowsx86-64\release\VendorCpp\3v432nyn4dhm1hgqp3it1kcc3\AM_CAN_HexBoreEncoder.obj
+P:\ClaysDesktop\vendor-template-2026\vendor-template-2026\build\objs\vendor\static\windowsx86-64\release\VendorCpp\5102m67qssczzclxd69zmabip\AMDiagnosticsServer.obj
+P:\ClaysDesktop\vendor-template-2026\vendor-template-2026\build\objs\vendor\static\windowsx86-64\release\VendorCpp\abkl09ntw9yoqguz7rl9a02t8\source.obj
+P:\ClaysDesktop\vendor-template-2026\vendor-template-2026\build\objs\vendor\static\windowsx86-64\release\VendorCpp\bzwo7e3n7ohmkrmc6bhwom8sa\AM_CAN_Color_Sensor.obj
+P:\ClaysDesktop\vendor-template-2026\vendor-template-2026\build\objs\vendor\static\windowsx86-64\release\VendorCpp\sfz3vhftgw3mdehwcwti0h4u\AMCanDevice.obj

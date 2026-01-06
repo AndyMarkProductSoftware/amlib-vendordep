@@ -1,0 +1,8 @@
+See file:///P:/ClaysDesktop/vendor-template-2026/vendor-template-2026/build/tmp/compileVendorDriverWindowsx86-64DebugSharedLibraryVendorDriverCpp/output.txt for all output for compileVendorDriverWindowsx86-64DebugSharedLibraryVendorDriverCpp.
+compiling driversource.cpp successful.
+driversource.cpp
+
+compiling VendorJNI.cpp successful.
+VendorJNI.cpp
+
+Finished compileVendorDriverWindowsx86-64DebugSharedLibraryVendorDriverCpp, see full log file:///P:/ClaysDesktop/vendor-template-2026/vendor-template-2026/build/tmp/compileVendorDriverWindowsx86-64DebugSharedLibraryVendorDriverCpp/output.txt.

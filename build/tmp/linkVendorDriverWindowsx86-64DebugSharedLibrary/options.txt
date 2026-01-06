@@ -1,0 +1,17 @@
+/DEBUG:FULL
+/PDBALTPATH:%_PDB%
+/DEPENDENTLOADFLAG:0x1100
+/DEF:P:\\ClaysDesktop\\vendor-template-2026\\vendor-template-2026\\build\\tmp\\generatePrivateExportsVendorDriverWindowsx86-64DebugSharedLibrary\\exports.def
+/OUT:P:\ClaysDesktop\vendor-template-2026\vendor-template-2026\build\libs\vendorDriver\shared\windowsx86-64\debug\VendorDriver.dll
+/NOLOGO
+/DLL
+/IMPLIB:P:\ClaysDesktop\vendor-template-2026\vendor-template-2026\build\libs\vendorDriver\shared\windowsx86-64\debug\VendorDriver.lib
+"/LIBPATH:C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64"
+"/LIBPATH:C:\Program Files (x86)\Windows Kits\10\Lib\10.0.26100.0\um\x64"
+"/LIBPATH:C:\Program Files (x86)\Windows Kits\10\Lib\10.0.26100.0\ucrt\x64"
+P:\ClaysDesktop\vendor-template-2026\vendor-template-2026\build\objs\vendorDriver\shared\windowsx86-64\debug\VendorDriverCpp\3dfm32krxkpc4xdulgi3f3ucc\VendorJNI.obj
+P:\ClaysDesktop\vendor-template-2026\vendor-template-2026\build\objs\vendorDriver\shared\windowsx86-64\debug\VendorDriverCpp\cff3kyd83weqvuxvq73sujeum\driversource.obj
+C:\Users\clayw\scoop\apps\gradle\current\.gradle\caches\8.14.3\transforms\284b6171acde0c13444a959a31fda54f\transformed\hal-cpp-2026.1.1-beta-1-16-gccb3266-windowsx86-64debug\windows\x86-64\shared\wpiHald.lib
+C:\Users\clayw\scoop\apps\gradle\current\.gradle\caches\8.14.3\transforms\62f56001d7afb529811ca5c33934aca7\transformed\wpimath-cpp-2026.1.1-beta-1-16-gccb3266-windowsx86-64debug\windows\x86-64\shared\wpimathd.lib
+C:\Users\clayw\scoop\apps\gradle\current\.gradle\caches\8.14.3\transforms\3ad583e602782585b4f5174dbdd84bd4\transformed\wpinet-cpp-2026.1.1-beta-1-16-gccb3266-windowsx86-64debug\windows\x86-64\shared\wpinetd.lib
+C:\Users\clayw\scoop\apps\gradle\current\.gradle\caches\8.14.3\transforms\49b33cae9d228be991926e04281d1357\transformed\wpiutil-cpp-2026.1.1-beta-1-16-gccb3266-windowsx86-64debug\windows\x86-64\shared\wpiutild.lib

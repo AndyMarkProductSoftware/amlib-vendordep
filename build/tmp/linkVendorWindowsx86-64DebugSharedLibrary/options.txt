@@ -1,0 +1,23 @@
+/DEBUG:FULL
+/PDBALTPATH:%_PDB%
+/DEPENDENTLOADFLAG:0x1100
+/DEF:P:\\ClaysDesktop\\vendor-template-2026\\vendor-template-2026\\build\\tmp\\generateExportsVendorWindowsx86-64DebugSharedLibrary\\exports.def
+/OUT:P:\ClaysDesktop\vendor-template-2026\vendor-template-2026\build\libs\vendor\shared\windowsx86-64\debug\Vendor.dll
+/NOLOGO
+/DLL
+/IMPLIB:P:\ClaysDesktop\vendor-template-2026\vendor-template-2026\build\libs\vendor\shared\windowsx86-64\debug\Vendor.lib
+"/LIBPATH:C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64"
+"/LIBPATH:C:\Program Files (x86)\Windows Kits\10\Lib\10.0.26100.0\um\x64"
+"/LIBPATH:C:\Program Files (x86)\Windows Kits\10\Lib\10.0.26100.0\ucrt\x64"
+P:\ClaysDesktop\vendor-template-2026\vendor-template-2026\build\objs\vendor\shared\windowsx86-64\debug\VendorCpp\3v432nyn4dhm1hgqp3it1kcc3\AM_CAN_HexBoreEncoder.obj
+P:\ClaysDesktop\vendor-template-2026\vendor-template-2026\build\objs\vendor\shared\windowsx86-64\debug\VendorCpp\5102m67qssczzclxd69zmabip\AMDiagnosticsServer.obj
+P:\ClaysDesktop\vendor-template-2026\vendor-template-2026\build\objs\vendor\shared\windowsx86-64\debug\VendorCpp\abkl09ntw9yoqguz7rl9a02t8\source.obj
+P:\ClaysDesktop\vendor-template-2026\vendor-template-2026\build\objs\vendor\shared\windowsx86-64\debug\VendorCpp\bzwo7e3n7ohmkrmc6bhwom8sa\AM_CAN_Color_Sensor.obj
+P:\ClaysDesktop\vendor-template-2026\vendor-template-2026\build\objs\vendor\shared\windowsx86-64\debug\VendorCpp\sfz3vhftgw3mdehwcwti0h4u\AMCanDevice.obj
+P:\ClaysDesktop\vendor-template-2026\vendor-template-2026\build\libs\vendorDriver\shared\windowsx86-64\debug\VendorDriver.lib
+C:\Users\clayw\scoop\apps\gradle\current\.gradle\caches\8.14.3\transforms\c5c63c82eecf7a107736126a6de0114b\transformed\wpilibc-cpp-2026.1.1-beta-1-16-gccb3266-windowsx86-64debug\windows\x86-64\shared\wpilibcd.lib
+C:\Users\clayw\scoop\apps\gradle\current\.gradle\caches\8.14.3\transforms\2456f96b7fc75c1390a5362d59850911\transformed\ntcore-cpp-2026.1.1-beta-1-16-gccb3266-windowsx86-64debug\windows\x86-64\shared\ntcored.lib
+C:\Users\clayw\scoop\apps\gradle\current\.gradle\caches\8.14.3\transforms\284b6171acde0c13444a959a31fda54f\transformed\hal-cpp-2026.1.1-beta-1-16-gccb3266-windowsx86-64debug\windows\x86-64\shared\wpiHald.lib
+C:\Users\clayw\scoop\apps\gradle\current\.gradle\caches\8.14.3\transforms\62f56001d7afb529811ca5c33934aca7\transformed\wpimath-cpp-2026.1.1-beta-1-16-gccb3266-windowsx86-64debug\windows\x86-64\shared\wpimathd.lib
+C:\Users\clayw\scoop\apps\gradle\current\.gradle\caches\8.14.3\transforms\3ad583e602782585b4f5174dbdd84bd4\transformed\wpinet-cpp-2026.1.1-beta-1-16-gccb3266-windowsx86-64debug\windows\x86-64\shared\wpinetd.lib
+C:\Users\clayw\scoop\apps\gradle\current\.gradle\caches\8.14.3\transforms\49b33cae9d228be991926e04281d1357\transformed\wpiutil-cpp-2026.1.1-beta-1-16-gccb3266-windowsx86-64debug\windows\x86-64\shared\wpiutild.lib

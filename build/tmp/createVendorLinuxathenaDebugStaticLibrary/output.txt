@@ -1,0 +1,4 @@
+See file:///P:/ClaysDesktop/vendor-template-2026/vendor-template-2026/build/tmp/createVendorLinuxathenaDebugStaticLibrary/output.txt for all output for createVendorLinuxathenaDebugStaticLibrary.
+archiving libVendor.a successful.
+
+Finished createVendorLinuxathenaDebugStaticLibrary, see full log file:///P:/ClaysDesktop/vendor-template-2026/vendor-template-2026/build/tmp/createVendorLinuxathenaDebugStaticLibrary/output.txt.

@@ -1,0 +1,12 @@
+See file:///P:/ClaysDesktop/vendor-template-2026/vendor-template-2026/build/tmp/compileVendorLinuxathenaReleaseStaticLibraryVendorCpp/output.txt for all output for compileVendorLinuxathenaReleaseStaticLibraryVendorCpp.
+compiling AMCanDevice.cpp successful.
+
+compiling source.cpp successful.
+
+compiling AM_CAN_HexBoreEncoder.cpp successful.
+
+compiling AM_CAN_Color_Sensor.cpp successful.
+
+compiling AMDiagnosticsServer.cpp successful.
+
+Finished compileVendorLinuxathenaReleaseStaticLibraryVendorCpp, see full log file:///P:/ClaysDesktop/vendor-template-2026/vendor-template-2026/build/tmp/compileVendorLinuxathenaReleaseStaticLibraryVendorCpp/output.txt.

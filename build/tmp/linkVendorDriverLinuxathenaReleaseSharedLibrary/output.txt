@@ -1,0 +1,4 @@
+See file:///P:/ClaysDesktop/vendor-template-2026/vendor-template-2026/build/tmp/linkVendorDriverLinuxathenaReleaseSharedLibrary/output.txt for all output for linkVendorDriverLinuxathenaReleaseSharedLibrary.
+linking libVendorDriver.so successful.
+
+Finished linkVendorDriverLinuxathenaReleaseSharedLibrary, see full log file:///P:/ClaysDesktop/vendor-template-2026/vendor-template-2026/build/tmp/linkVendorDriverLinuxathenaReleaseSharedLibrary/output.txt.

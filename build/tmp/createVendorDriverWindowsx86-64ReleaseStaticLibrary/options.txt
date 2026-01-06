@@ -1,0 +1,4 @@
+/OUT:P:\ClaysDesktop\vendor-template-2026\vendor-template-2026\build\libs\vendorDriver\static\windowsx86-64\release\VendorDriver.lib
+/NOLOGO
+P:\ClaysDesktop\vendor-template-2026\vendor-template-2026\build\objs\vendorDriver\static\windowsx86-64\release\VendorDriverCpp\3dfm32krxkpc4xdulgi3f3ucc\VendorJNI.obj
+P:\ClaysDesktop\vendor-template-2026\vendor-template-2026\build\objs\vendorDriver\static\windowsx86-64\release\VendorDriverCpp\cff3kyd83weqvuxvq73sujeum\driversource.obj

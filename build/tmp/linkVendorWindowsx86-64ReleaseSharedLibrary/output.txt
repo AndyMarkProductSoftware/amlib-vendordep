@@ -1,0 +1,5 @@
+See file:///P:/ClaysDesktop/vendor-template-2026/vendor-template-2026/build/tmp/linkVendorWindowsx86-64ReleaseSharedLibrary/output.txt for all output for linkVendorWindowsx86-64ReleaseSharedLibrary.
+linking Vendor.dll successful.
+   Creating library P:\ClaysDesktop\vendor-template-2026\vendor-template-2026\build\libs\vendor\shared\windowsx86-64\release\Vendor.lib and object P:\ClaysDesktop\vendor-template-2026\vendor-template-2026\build\libs\vendor\shared\windowsx86-64\release\Vendor.exp
+
+Finished linkVendorWindowsx86-64ReleaseSharedLibrary, see full log file:///P:/ClaysDesktop/vendor-template-2026/vendor-template-2026/build/tmp/linkVendorWindowsx86-64ReleaseSharedLibrary/output.txt.
