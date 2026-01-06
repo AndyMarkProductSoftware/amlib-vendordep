@@ -2,7 +2,7 @@
   "fileName": "AmLib-2026.0.1.json",
   "name": "AndyMark AM Library",
   "version": "2026.0.1",
-  "frcYear": "2026",
+  "frcYear": "2026beta",
   "uuid": "YOUR_UUID_HERE",
   "mavenUrls": [
     "https://ClayWilsonAM.github.io/amlib-vendordep-2026/repo/"
