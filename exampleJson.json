@@ -1,26 +1,26 @@
 {
-  "fileName": "AmLib-2026.0.1-beta.json",
+  "fileName": "AmLib-<VERSION>.json",
   "name": "AndyMark AM Library",
-  "version": "2026.0.1-beta",
-  "frcYear": "2026beta",
+  "version": "<VERSION>",
+  "frcYear": "<FRC_YEAR>",
   "uuid": "f463c495-f27c-4102-9dde-af4e65a3eb2d",
   "mavenUrls": [
-    "https://ClayWilsonAM.github.io/amlib-vendordep-2026/repo/2026beta/"
+    "https://ClayWilsonAM.github.io/amlib-vendordep-2026/repo/<CAMP>/"
   ],
-  "jsonUrl": "https://ClayWilsonAM.github.io/amlib-vendordep-2026/vendordeps/2026beta/AmLib-2026.0.1-beta.json",
+  "jsonUrl": "https://ClayWilsonAM.github.io/amlib-vendordep-2026/vendordeps/<CAMP>/AmLib-<VERSION>.json",
   "jniDependencies": [],
   "javaDependencies": [
     {
       "groupId": "com.andymark.frc",
       "artifactId": "AmLib-java",
-      "version": "2026.0.1-beta"
+      "version": "<MAVEN_VERSION>"
     }
   ],
   "cppDependencies": [
     {
       "groupId": "com.andymark.frc",
       "artifactId": "AmLib-cpp",
-      "version": "2026.0.1-beta",
+      "version": "<MAVEN_VERSION>",
       "libName": "AmLib",
       "headerClassifier": "headers",
       "sharedLibrary": false,
