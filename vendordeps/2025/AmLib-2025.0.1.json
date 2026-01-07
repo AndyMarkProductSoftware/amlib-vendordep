@@ -13,14 +13,14 @@
     {
       "groupId": "com.andymark.frc",
       "artifactId": "AmLib-java",
-      "version": "<MAVEN_VERSION>"
+      "version": "2025.0.1"
     }
   ],
   "cppDependencies": [
     {
       "groupId": "com.andymark.frc",
       "artifactId": "AmLib-cpp",
-      "version": "<MAVEN_VERSION>",
+      "version": "2025.0.1",
       "libName": "AmLib",
       "headerClassifier": "headers",
       "sharedLibrary": false,
