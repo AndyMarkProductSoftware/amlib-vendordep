@@ -5,9 +5,9 @@
   "frcYear": "<FRC_YEAR>",
   "uuid": "f463c495-f27c-4102-9dde-af4e65a3eb2d",
   "mavenUrls": [
-    "https://ClayWilsonAM.github.io/amlib-vendordep/repo/<CAMP>/"
+    "https://andmarkproductsoftware.github.io/amlib-vendordep/repo/<CAMP>/"
   ],
-  "jsonUrl": "https://ClayWilsonAM.github.io/amlib-vendordep/vendordeps/<CAMP>/AmLib-<VERSION>.json",
+  "jsonUrl": "https://andmarkproductsoftware.github.io/amlib-vendordep/vendordeps/<CAMP>/AmLib-<VERSION>.json",
   "jniDependencies": [],
   "javaDependencies": [
     {
