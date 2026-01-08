@@ -5,9 +5,9 @@
   "frcYear": "2025",
   "uuid": "f463c495-f27c-4102-9dde-af4e65a3eb2d",
   "mavenUrls": [
-    "https://andmarkproductsoftware.github.io/amlib-vendordep/repo/2025/"
+    "https://andymarkproductsoftware.github.io/amlib-vendordep/repo/2025/"
   ],
-  "jsonUrl": "https://andmarkproductsoftware.github.io/amlib-vendordep/vendordeps/2025/AmLib-2025.0.1.json",
+  "jsonUrl": "https://andymarkproductsoftware.github.io/amlib-vendordep/vendordeps/2025/AmLib-2025.0.1.json",
   "jniDependencies": [],
   "javaDependencies": [
     {

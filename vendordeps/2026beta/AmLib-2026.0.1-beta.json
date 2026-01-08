@@ -5,9 +5,9 @@
   "frcYear": "2026beta",
   "uuid": "f463c495-f27c-4102-9dde-af4e65a3eb2d",
   "mavenUrls": [
-    "https://andmarkproductsoftware.github.io/amlib-vendordep-2026/repo/2026beta/"
+    "https://andymarkproductsoftware.github.io/amlib-vendordep-2026/repo/2026beta/"
   ],
-  "jsonUrl": "https://andmarkproductsoftware.github.io/amlib-vendordep-2026/vendordeps/2026beta/AmLib-2026.0.1-beta.json",
+  "jsonUrl": "https://andymarkproductsoftware.github.io/amlib-vendordep-2026/vendordeps/2026beta/AmLib-2026.0.1-beta.json",
   "jniDependencies": [],
   "javaDependencies": [
     {
