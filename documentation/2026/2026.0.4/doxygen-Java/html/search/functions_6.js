@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['sendcanmessage_0',['sendCANMessage',['../classcom_1_1andymark_1_1jni_1_1_a_m_can_device.html#aea0f15d0d4db9200794139d4e6382f29',1,'com::andymark::jni::AMCanDevice']]],
+  ['setbrakemode_1',['setBrakeMode',['../classcom_1_1andymark_1_1jni_1_1_a_m___c_a_n___koors40.html#a56c52833575f80463f1a52181725ab79',1,'com::andymark::jni::AM_CAN_Koors40']]],
+  ['setcoastmode_2',['setCoastMode',['../classcom_1_1andymark_1_1jni_1_1_a_m___c_a_n___koors40.html#a6f95938dc7b30ad1164e4b393f96018e',1,'com::andymark::jni::AM_CAN_Koors40']]],
+  ['setdistancemode_3',['setDistanceMode',['../classcom_1_1andymark_1_1jni_1_1_a_m___c_a_n___lidar.html#a60a5ad066d8f64df615b397a40aa2729',1,'com::andymark::jni::AM_CAN_Lidar']]],
+  ['setintermeasurementperiodms_4',['setIntermeasurementPeriodMs',['../classcom_1_1andymark_1_1jni_1_1_a_m___c_a_n___lidar.html#adf902d2fa5d61906735397a74f9b4ed3',1,'com::andymark::jni::AM_CAN_Lidar']]],
+  ['setmeasurementtimingbudgetus_5',['setMeasurementTimingBudgetUs',['../classcom_1_1andymark_1_1jni_1_1_a_m___c_a_n___lidar.html#a669695bacaac947eb2b623074497816e',1,'com::andymark::jni::AM_CAN_Lidar']]],
+  ['setminsignalrate_6',['setMinSignalRate',['../classcom_1_1andymark_1_1jni_1_1_a_m___c_a_n___lidar.html#a85e428623201c4d5ba2ff93f84013a4c',1,'com::andymark::jni::AM_CAN_Lidar']]],
+  ['setoffsetdegrees_7',['setOffsetDegrees',['../classcom_1_1andymark_1_1jni_1_1_a_m___c_a_n___hex_bore_encoder.html#a9afd26acc822463eec78eed70550d628',1,'com.andymark.jni.AM_CAN_HexBoreEncoder.setOffsetDegrees()'],['../classcom_1_1andymark_1_1jni_1_1_a_m___c_a_n___lidar.html#a0413edb04c793ee37974b0dc62e07b25',1,'com.andymark.jni.AM_CAN_Lidar.setOffsetDegrees()']]],
+  ['setreportperiod_8',['setReportPeriod',['../classcom_1_1andymark_1_1jni_1_1_a_m___c_a_n___color___sensor.html#ad10d50fc96e860726bfc3372eb29c8dc',1,'com.andymark.jni.AM_CAN_Color_Sensor.setReportPeriod()'],['../classcom_1_1andymark_1_1jni_1_1_a_m___c_a_n___hex_bore_encoder.html#a432b97380cd2c925455c2bc75027615e',1,'com.andymark.jni.AM_CAN_HexBoreEncoder.setReportPeriod()'],['../classcom_1_1andymark_1_1jni_1_1_a_m___c_a_n___lidar.html#a4e69fd303b15efee76ceb7d83d4f393b',1,'com.andymark.jni.AM_CAN_Lidar.setReportPeriod()'],['../classcom_1_1andymark_1_1jni_1_1_a_m___c_a_n___mag___switch.html#a2066d2f73704c941a2fb81438d918d8d',1,'com.andymark.jni.AM_CAN_Mag_Switch.setReportPeriod()']]],
+  ['setroicenter_9',['setROICenter',['../classcom_1_1andymark_1_1jni_1_1_a_m___c_a_n___lidar.html#af152d55363208c7a083d1cccd1a54c84',1,'com::andymark::jni::AM_CAN_Lidar']]],
+  ['setroisize_10',['setROISize',['../classcom_1_1andymark_1_1jni_1_1_a_m___c_a_n___lidar.html#a0f3ad74ae44e4b715e32ed73e33e49a3',1,'com::andymark::jni::AM_CAN_Lidar']]],
+  ['setsigmathreshold_11',['setSigmaThreshold',['../classcom_1_1andymark_1_1jni_1_1_a_m___c_a_n___lidar.html#aaa9a78c99786078dc7bcad25bb65eb7c',1,'com::andymark::jni::AM_CAN_Lidar']]],
+  ['setspeed_12',['setSpeed',['../classcom_1_1andymark_1_1jni_1_1_a_m___c_a_n___koors40.html#a88acd118d18caf6811e0e17dc8c32206',1,'com::andymark::jni::AM_CAN_Koors40']]],
+  ['settimeoutms_13',['setTimeoutMs',['../classcom_1_1andymark_1_1jni_1_1_a_m___c_a_n___lidar.html#a94ed30a6e3b466842c2d894bb2215294',1,'com::andymark::jni::AM_CAN_Lidar']]],
+  ['setuseroffsetmm_14',['setUserOffsetMm',['../classcom_1_1andymark_1_1jni_1_1_a_m___c_a_n___lidar.html#ad3bba5d0f027879c1aa7277b29745470',1,'com::andymark::jni::AM_CAN_Lidar']]],
+  ['setzerohere_15',['setZeroHere',['../classcom_1_1andymark_1_1jni_1_1_a_m___c_a_n___hex_bore_encoder.html#a2fd4880d2ac7784f46188ab13f569745',1,'com::andymark::jni::AM_CAN_HexBoreEncoder']]]
+];
