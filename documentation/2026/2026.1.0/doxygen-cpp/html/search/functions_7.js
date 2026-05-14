@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['sendcanmessage_0',['SendCANMessage',['../class_can_device.html#acefbb578a5082ed584f3f2d077955979',1,'CanDevice']]],
+  ['setbrakemode_1',['setBrakeMode',['../class_c_a_n___koors40.html#a3e61bbc772617b90e632bd131f1ba93a',1,'CAN_Koors40']]],
+  ['setcoastmode_2',['setCoastMode',['../class_c_a_n___koors40.html#a3e2f492bf0446c49c26f998b4cdd633a',1,'CAN_Koors40']]],
+  ['setdistancemode_3',['SetDistanceMode',['../class_a_m___c_a_n_lidar.html#a5019b5ed818a61d64ea3bc151edc5d3f',1,'AM_CANLidar']]],
+  ['setintermeasurementperiodms_4',['SetIntermeasurementPeriodMs',['../class_a_m___c_a_n_lidar.html#a095035a7d83606cda741965c8f67d997',1,'AM_CANLidar']]],
+  ['setmeasurementtimingbudgetus_5',['SetMeasurementTimingBudgetUs',['../class_a_m___c_a_n_lidar.html#abf4a2992ff80039152de9496a9581a94',1,'AM_CANLidar']]],
+  ['setminsignalrate_6',['SetMinSignalRate',['../class_a_m___c_a_n_lidar.html#af7cff33e36773e73f02b9606092e5704',1,'AM_CANLidar']]],
+  ['setoffsetdegrees_7',['SetOffsetDegrees',['../class_a_m___c_a_n___hex_bore_encoder.html#a62fe3f21959a29e8fc45514f285f0c26',1,'AM_CAN_HexBoreEncoder::SetOffsetDegrees()'],['../class_a_m___c_a_n_lidar.html#a92be4658eeb688f5da44a2dc685c1249',1,'AM_CANLidar::SetOffsetDegrees()']]],
+  ['setreportperiod_8',['SetReportPeriod',['../class_a_m___c_a_n_color_sensor.html#a2f36928422f1a9d38baba500b147f0a3',1,'AM_CANColorSensor::SetReportPeriod()'],['../class_a_m___c_a_n___hex_bore_encoder.html#ac95d4e9b3f67d9cbe053d59f3f82f06a',1,'AM_CAN_HexBoreEncoder::SetReportPeriod()'],['../class_a_m___c_a_n_lidar.html#a2a3e0ce1ec1c20a1bff651557f007340',1,'AM_CANLidar::SetReportPeriod()'],['../class_a_m___c_a_n___mag___switch.html#a4acd453b9383aeda57fc5b1b0b015be2',1,'AM_CAN_Mag_Switch::SetReportPeriod()']]],
+  ['setroicenter_9',['SetROICenter',['../class_a_m___c_a_n_lidar.html#ada2729530451ef7fc963454cd74b85ea',1,'AM_CANLidar']]],
+  ['setroisize_10',['SetROISize',['../class_a_m___c_a_n_lidar.html#a3db747be3016e9194443ebaa59c2cc57',1,'AM_CANLidar']]],
+  ['setsigmathreshold_11',['SetSigmaThreshold',['../class_a_m___c_a_n_lidar.html#a92d8c5c39603b6bd49bebba402ef7857',1,'AM_CANLidar']]],
+  ['setspeed_12',['setSpeed',['../class_c_a_n___koors40.html#a028d378ecb2759607c13b57b5acf3f5e',1,'CAN_Koors40']]],
+  ['settimeoutms_13',['SetTimeoutMs',['../class_a_m___c_a_n_lidar.html#abb808968f4e30b5ec55bfdbce46b9126',1,'AM_CANLidar']]],
+  ['setuseroffsetmm_14',['SetUserOffsetMm',['../class_a_m___c_a_n_lidar.html#a4fbaf07dfa5dbd8f5597e5f6e349cafb',1,'AM_CANLidar']]],
+  ['setzerohere_15',['SetZeroHere',['../class_a_m___c_a_n___hex_bore_encoder.html#ad2a35d255c74ee9151100755549b2853',1,'AM_CAN_HexBoreEncoder']]]
+];
