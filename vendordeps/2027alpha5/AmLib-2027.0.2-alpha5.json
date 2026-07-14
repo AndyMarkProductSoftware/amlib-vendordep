@@ -2,7 +2,7 @@
   "fileName": "AmLib-2027.0.2-alpha5.json",
   "name": "AndyMark AM Library",
   "version": "2027.0.2-alpha5",
-  "frcYear": "2027_alpha5",
+  "wpilibYear": "2027_alpha5",
   "uuid": "8ff1e47a-a88b-43fd-ba16-1a41a361aa6a",
   "mavenUrls": [
     "https://andymarkproductsoftware.github.io/amlib-vendordep/repo/2027_alpha5/"
