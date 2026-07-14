@@ -27,7 +27,7 @@
       "skipInvalidPlatforms": true,
       "binaryPlatforms": [
         "windowsx86-64",
-        "linuxathena"
+        "linuxsystemcore"
       ]
     }
   ]
